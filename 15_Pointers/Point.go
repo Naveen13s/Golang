@@ -21,7 +21,6 @@ import "fmt"
 //}
 
 //by refrence
-
 func changeNum(num *int) {
 	*num = 5
 	fmt.Println("In changeNum", *num)
