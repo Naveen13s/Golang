@@ -1,4 +1,13 @@
-//
+/* A channel is a way for goroutines to communicate and share data safely.
+   ->"Don't communicate by sharing memory; share memory by communicating." — Go Philosophy
+   -> Channels enable goroutine communication
+   -> Unbuffered channels are blocking
+   -> Buffered channels store values temporarily
+   -> close() signals no more values will be sent
+   -> select works with multiple channels
+   -> Channels are Go's preferred concurrency mechanism
+
+*/
 
 package main
 
