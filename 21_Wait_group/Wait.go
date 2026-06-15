@@ -1,3 +1,8 @@
+// A WaitGroup from Go's sync package is used to wait for a collection of goroutines to finish executing.
+// It helps ensure that the main function doesn't exit before all goroutines complete.
+
+
+
 package main
 
 import (
