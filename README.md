@@ -19,7 +19,7 @@ This repository contains the fundamental of Golang and my solutions to Data Stru
 ## 📚 Topics
 
 - ✅ Basic Maths
-- ⏳ Arrays
+- ✅ Arrays
 - ⏳ Strings
 - ⏳ Binary Search
 - ⏳ Linked List
@@ -37,8 +37,8 @@ This repository contains the fundamental of Golang and my solutions to Data Stru
 
 | Topic | Status |
 |--------|--------|
-| Basic Maths | 🟢 In Progress |
-| Arrays | ⚪ Not Started |
+| Basic Maths | ✅ Completed |
+| Arrays | 🟢 In Progress |
 | Strings | ⚪ Not Started |
 | Binary Search | ⚪ Not Started |
 | Linked List | ⚪ Not Started |
