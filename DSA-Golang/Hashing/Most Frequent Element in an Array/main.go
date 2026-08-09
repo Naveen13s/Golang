@@ -57,7 +57,7 @@ func mostFrequentElement(nums []int) int {
 /*💡 Interview Tip
 There are two common approaches:
 
-Approach:- 	                                     Time	    Space
-1. Brute Force (count each element separately)	     O(N²)	     O(1)
-2. Hash Map (Frequency Counting)	                 O(N)	     O(N) ✅
+Approach:- 	                                      Time	    Space
+1. Brute Force (count each element separately)	  O(N²)	     O(1)
+2. Hash Map (Frequency Counting)	              O(N)	     O(N) ✅
  -> The Hash Map approach is the expected interview solution because it counts frequencies in a single traversal and easily handles the tie-breaking condition (choosing the smaller element when frequencies are equal).  */
