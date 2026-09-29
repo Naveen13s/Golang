@@ -15,7 +15,6 @@ func roseGarden(n int, nums []int, k int, m int) int {
 			right = day
 		}
 	}
-
 	ans := -1
 
 	for left <= right {
